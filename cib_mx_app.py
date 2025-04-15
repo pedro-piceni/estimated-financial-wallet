@@ -3,7 +3,6 @@ import altair as alt
 import pandas as pd
 import os
 import numpy as np
-import statsmodels.api as sm
 from sklearn.linear_model import LinearRegression
 
 
